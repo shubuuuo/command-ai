@@ -19,3 +19,9 @@
 - Due to concern about adding yet another high-end technology to my laptop, which already runs several resource-heavy applications.
 - Downloading Mistral for a relatively simple project does not feel worth it at this stage.
 - My laptop has also started to lag, making this a practical concern.
+
+## Why have I abandoned the Mistral and Ollama part?
+
+- Cause its taking a toll on my laptop in a way which I dont want.
+- Now, I am deleting the Unity software cause I no longer need it. 
+- I will download it again, when I will be needing that software for my future projects.
